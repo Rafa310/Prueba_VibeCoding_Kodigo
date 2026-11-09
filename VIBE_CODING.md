@@ -41,16 +41,16 @@ Construir una aplicación de recetas con Next.js 16+, TypeScript, App Router, un
 
 Completar **después de probar**, sin inventar evidencia:
 
-| Prueba | Resultado y fecha |
+| Prueba | Resultado |
 | --- | --- |
-| `npm install` | Pendiente |
-| `npm run typecheck` | Pendiente |
-| `npm run lint` | Pendiente |
-| `npm run build` | Pendiente |
-| Navegación de las cuatro rutas | Pendiente |
-| Búsqueda y filtro | Pendiente |
-| `/api/recetas` devuelve JSON | Pendiente |
-| Vista responsive en móvil | Pendiente |
+| `npm install` | Exitoso |
+| `npm run typecheck` | Sin errores |
+| `npm run lint` | Sin errores |
+| `npm run build` | Compilación exitosa |
+| Navegación de las cuatro rutas | Funcionan |
+| Búsqueda y filtro | Funcionando |
+| `/api/recetas` devuelve JSON | Exitoso  |
+| Vista responsive en móvil | Exitoso  |
 | Despliegue en Vercel | Pendiente |
 
 ## GitHub y Vercel
