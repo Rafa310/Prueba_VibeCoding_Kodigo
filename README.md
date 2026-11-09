@@ -62,7 +62,7 @@ Copia `.env.example` como `.env.local`. La variable `NEXT_PUBLIC_APP_NAME` permi
 
 La aplicación Recetario Fácil está disponible públicamente en:
 
-https://TU-PROYECTO.vercel.app
+https://prueba-vibe-coding-kodigo.vercel.app
 
 ## Tecnologías utilizadas
 
