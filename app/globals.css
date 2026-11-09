@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+:root { color-scheme: light; }
+body { background: #fffbf5; color: #292524; }
+button, input, select { font: inherit; }
