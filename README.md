@@ -57,7 +57,21 @@ Copia `.env.example` como `.env.local`. La variable `NEXT_PUBLIC_APP_NAME` permi
 4. Si lo deseas, agrega `NEXT_PUBLIC_APP_NAME` en los ajustes de variables de entorno de Vercel.
 5. Verifica las cuatro páginas y la API; copia aquí la URL real de producción.
 
-**URL de producción:** _pendiente de añadir después del despliegue_.
+
+## Aplicación desplegada
+
+La aplicación Recetario Fácil está disponible públicamente en:
+
+https://TU-PROYECTO.vercel.app
+
+## Tecnologías utilizadas
+
+- Next.js 16 con App Router
+- TypeScript
+- Tailwind CSS
+- React Hooks
+- Route Handlers
+- Vercel
 
 ## Proceso de Vibe Coding
 

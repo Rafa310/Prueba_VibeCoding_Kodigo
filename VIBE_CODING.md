@@ -56,3 +56,17 @@ Completar **después de probar**, sin inventar evidencia:
 ## GitHub y Vercel
 
 Conservar commits reales con mensajes descriptivos. Registrar la URL pública después de desplegar. No atribuir pruebas o correcciones que no se hayan realizado.
+
+## Validación y despliegue
+
+Se ejecutaron las siguientes comprobaciones:
+
+- npm run typecheck: completado sin errores.
+- npm run lint: completado sin errores ni advertencias tras corregir la configuración de PostCSS.
+- npm run build: compilación de producción exitosa.
+
+Durante el desarrollo se identificó un problema de compatibilidad con una dependencia ESM. Se revisó la versión de Node.js y se corrigió el entorno.
+
+También se ajustó la configuración de Turbopack para establecer la raíz del proyecto y eliminar una advertencia de compilación.
+
+Finalmente, se publicó el código en GitHub y se realizó el despliegue de producción mediante Vercel.
